@@ -1,4 +1,4 @@
-# Grass
+# Wave-shader
 
 ```base
  pnpm i
